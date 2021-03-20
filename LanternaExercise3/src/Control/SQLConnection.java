@@ -10,7 +10,7 @@ public class SQLConnection {
 		try{
 			
 			Class.forName("org.sqlite.JDBC");
-			Connection con = DriverManager.getConnection("jdbc:sqlite:W.sqlite");
+			Connection con = DriverManager.getConnection("jdbc:sqlite:warehouse.sqlite");
 			return con;
 			
 		}catch(Exception e){
