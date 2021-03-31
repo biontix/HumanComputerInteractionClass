@@ -5,4 +5,4 @@
 
 ## Report 3.
 
-![Alt Text](https://github.com/biontix/HumanComputerInteractionClass/blob/main/LanternaExercise3/HC3.gif)
+![Alt Text](https://github.com/biontix/HumanComputerInteractionClass/blob/main/LanternaExercise3/HC2.gif)
